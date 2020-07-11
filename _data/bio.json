@@ -1,48 +1,42 @@
 {
   "basics": {
-    "name": "Someone",
-    "label": "Something",
+    "name": "Prafull Anand",
+    "label": "Engineer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "abc@gmail.com",
-    "phone": "1234567890",
+    "email": "prafullanand5@gmail.com",
+    "phone": "+916203166848",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of xyz and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am an Computer science undergraduate at Jaipur National University. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "VILL- VIDYA JHANP, PO- TITRA ASHANAND, PS - SAKRA",
+      "postalCode": "843105",
+      "city": "MUZAFFARPUR",
+      "countryCode": "IND",
+      "region": "Bihar"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "prafullanand",
+        "url": "https://github.com/prafullanand"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Pradull anand",
+        "url": "https://www.linkedin.com/in/prafull-anand-4a4167184."
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "prafull anand",
+        "url": "https://twitter.com/prafull_anand"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+      
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cloud computing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -64,9 +58,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
       ]
     },
     {
